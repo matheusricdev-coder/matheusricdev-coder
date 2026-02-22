@@ -58,19 +58,6 @@ Uso **Claude Code / Cursor / Quodo** para acelerar refatorações, revisão de c
 
 ---
 
-## 📊 GitHub Stats
-> `matheusricdev-coder` .
-
-![Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact)
-
----
-
-## 🏆 Achievements
-![Trophies](https://github-profile-trophy.vercel.app/?username=SEU_USERNAME&no-frame=true&margin-w=8)
-
----
-
 ## 📫 Where to find me
 - **Email:** matheus.luiz@qinvapp.com
 - **WhatsApp:** +55 11 95195-7306
